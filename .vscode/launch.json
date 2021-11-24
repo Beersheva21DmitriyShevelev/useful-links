@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "d:\\1shev\\fin\\evr\\TLR\\visual_studio\\WS\\64_USEFUL-LINKS\\index.html"
+            "file": "${workspaceFolder}/index.html"
         }
     ]
 }
